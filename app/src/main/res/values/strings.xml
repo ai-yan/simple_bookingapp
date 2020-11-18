@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Final Touch Auto Detailing Tablet App</string>
+    <string name="imgAuto">Auto Detailing Image</string>
+    <string name="txtTitle">Auto Detailing Services</string>
+    <string name="txtDescription">The Car Detailer will clean vehicles, which may include performing detail inspections, washing, buffing, and waxing exteriors, vacuuming, steaming. We ensure quality work is done before moving on.</string>
+    <string name="btnDate">Schedule an appointment today!</string>
+    <string name="txtDeluxe">$ 70.00 - Exterior Wash, Tire Shine, Interior Vacuum, Wipe Down,</string>
+    <string name="txtGold">$ 120.00 - Exterior Wash + Eco Spray Wax, Tire Shine, Interior Vacuum, Wipe Down, High Quality Paste Wax</string>
+    <string name="txtPremium">$ 170.00 - Exterior Wash + Eco Spray Wax, Tire Shine, Interior Vacuum, Wipe Down, High Quality Paste Wax, Interior Deep Clean + Conditioning, Shampoo Carpets, Mats</string>
+    <string name="txtPaint">$ 50.00 - Paint Correction</string>
+</resources>
